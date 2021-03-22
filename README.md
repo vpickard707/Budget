@@ -14,6 +14,12 @@ When brought back online:
 
 Deployed live at: https://budgettracker21.herokuapp.com/
 
-Technologies used:
-MongoDB
-Node.js
+<img src="public/assets/budget1.jpg">
+
+# Technologies
+
+- Javascript
+- Express
+- Node
+- IndexDB
+- Heroku
