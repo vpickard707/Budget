@@ -12,9 +12,9 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
-Deployed live at: https://budgettracker21.herokuapp.com/
+Deployed live at: https://newpwstracker.herokuapp.com/
 
-<img src="public/assets/budget1.jpg">
+![Screenshot of Sample Budget App](./assets/newbudgetss.jpg)
 
 # Technologies
 
